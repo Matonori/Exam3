@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Noto+Sans+Elbasan&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Teko:wght@300..700&display=swap');
+html{
+    background-color: black;
+}
+h1{
+    text-align: center; color: green; size: 3cm; font-family: Teko, sans-serif;
+}
+h2{
+    text-align: center; color:white; text-decoration: underline;
+}
+div{
+    text-align: center; color: white;
+}
+p{
+    text-align: center; color:blue
+}
+footer{
+    text-align: center;
+}
+a:hover{
+    color:darkorange
+}
